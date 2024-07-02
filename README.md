@@ -7,7 +7,10 @@
 
 # Display 
 
-<img width="1512" alt="Screenshot 2024-07-02 at 6 29 28 PM" src="https://github.com/delvinsalman/DrawingApplication/assets/90351386/07c51188-4e1d-4b67-bec4-f770f7d70e8f">
-![01](https://github.com/delvinsalman/DrawingApplication/assets/90351386/dfde3956-ca3f-41a6-8c03-763fd4112c48)
+<img width="1512" alt="Screenshot 2024-07-02 at 6 29 28 PM" src="https://github.com/delvinsalman/DrawingApplication/assets/90351386/51be2cb0-ee8b-410b-b877-b787681918f5">
+<img width="1512" alt="Screenshot 2024-07-02 at 6 29 28 PM" src="https://github.com/delvinsalman/DrawingApplication/assets/90351386/51be2cb0-ee8b-410b-b877-b787681918f5">
+![01](https://github.com/delvinsalman/DrawingApplication/assets/90351386/3eeae92f-ad74-43ce-ba99-10767beecb92)
+![01](https://github.com/delvinsalman/DrawingApplication/assets/90351386/3eeae92f-ad74-43ce-ba99-10767beecb92)
+
 
 
