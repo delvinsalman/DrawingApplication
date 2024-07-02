@@ -11,6 +11,8 @@
 
 
 ![01](https://github.com/delvinsalman/DrawingApplication/assets/90351386/14e0e349-4b8e-4b85-82d6-2bc03e6476a6)
+![02](https://github.com/delvinsalman/DrawingApplication/assets/90351386/34b1fe55-cfe2-46e0-ad18-180b68ff6786)
+![12](https://github.com/delvinsalman/DrawingApplication/assets/90351386/48b00ade-9e32-4e0e-8798-56712435d9a5)
 
 
 
