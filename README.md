@@ -7,6 +7,8 @@
 
 # Display 
 
+Below is a display the interface and some designed created. This is an overview of what cool things that can be created. 
+
 <img width="1512" alt="Screenshot 2024-07-02 at 6 29 28 PM" src="https://github.com/delvinsalman/DrawingApplication/assets/90351386/51be2cb0-ee8b-410b-b877-b787681918f5">
 
 
