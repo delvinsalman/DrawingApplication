@@ -5,7 +5,7 @@
 
 
 
-# Display 
+## Display 
 
 Below is a display of the interface and some designed created. This is an overview of what cool things that can be created. 
 
