@@ -7,6 +7,7 @@
 
 # Display 
 
+<img width="1512" alt="Screenshot 2024-07-02 at 6 29 28 PM" src="https://github.com/delvinsalman/DrawingApplication/assets/90351386/07c51188-4e1d-4b67-bec4-f770f7d70e8f">
 ![01](https://github.com/delvinsalman/DrawingApplication/assets/90351386/dfde3956-ca3f-41a6-8c03-763fd4112c48)
 
 
