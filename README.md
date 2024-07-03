@@ -8,7 +8,7 @@
 
 This project is developed using JavaScript. It was developed using p5.js in which is stored on github for the source code. The project uses many library and technical code to form this application. 
 
-## Display ([Try It ])(https://editor.p5js.org/Delvin/full/ke35sh8R4) 
+## Display ( [Try It ](https://editor.p5js.org/Delvin/full/ke35sh8R4) )
 
 Below is a display of the interface and some designed created. This is an overview of what cool things that can be created. 
 
