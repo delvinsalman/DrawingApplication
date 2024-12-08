@@ -7,7 +7,7 @@
 This project is developed using **JavaScript** and **p5.js**. The source code is hosted on GitHub. The project leverages several libraries and technical code to form the application’s features and functionality.
 
 ## **🌐 Display**  
-[**Try It Out**]([https://editor.p5js.org/Delvin/full/ke35sh8R4](https://delvinsalman.github.io/DrawingApplication/))  
+[**Try It Out**](https://editor.p5js.org/Delvin/full/ke35sh8R4)  
 
 Below is a display of the interface and some designs created with the application. This provides an overview of the cool things that can be created.
 
